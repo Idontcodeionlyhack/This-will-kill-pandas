@@ -1,10 +1,1 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="pxt-on-start"></block>
-  <block type="minecraftOnChat">
-    <value name="command">
-      <shadow type="text">
-        <field name="TEXT">run</field>
-      </shadow>
-    </value>
-  </block>
-</xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="GjVKlUZ:5aXAZ+Kv:jZ3" x="20" y="20"><statement name="HANDLER"><block type="minecraftSummon" id="-%U;wHZs*QY=0TGDR9ZB"><value name="entity"><shadow type="minecraftAnimal" id="D5@5XED{;f#Ob=~_Ow(N"><field name="name">AnimalMob.Panda</field></shadow></value><value name="destination"><shadow type="minecraftCreatePosition" id="=~c8D__%jm6LF@8mbBif"><value name="x"><shadow type="math_number" id="+1U0jkGkq.OH%/tC{a*c"><field name="NUM">1</field></shadow></value><value name="y"><shadow type="math_number" id="lQQrYAsF$[:|E;HdDDk0"><field name="NUM">0</field></shadow></value><value name="z"><shadow type="math_number" id=":dO@bF+YaN%@ER6vfhE]"><field name="NUM">0</field></shadow></value></shadow></value><next><block type="minecraftPlace" id="`Zn%PnewVu+U!NE:c?/+"><value name="block"><shadow type="minecraftBlock" id=")skprXKkQ@;qzuaTA~ES"><field name="block">Block.Fire</field></shadow></value><value name="pos"><shadow type="minecraftCreatePosition" id="gr%P^~z!@H{!`H~N/nU)"><value name="x"><shadow type="math_number" id="Co-gmYV?4zvtT)#AR]cu"><field name="NUM">1</field></shadow></value><value name="y"><shadow type="math_number" id="_0Zw@;KHFd{C`Zi@Kl4x"><field name="NUM">0</field></shadow></value><value name="z"><shadow type="math_number" id="S[|.?m-VUn8s8VtM07`s"><field name="NUM">0</field></shadow></value></shadow></value><next><block type="minecraftPlace" id="JGuNN):xDcdS@JEEywl("><value name="block"><shadow type="minecraftBlock" id="9j@Z6vCq0*=!Jg]RLs@r"><field name="block">Block.TNT</field></shadow></value><value name="pos"><shadow type="minecraftCreatePosition" id="t#{^ZFSH_`#`wVv{TCy`"><value name="x"><shadow type="math_number" id="exvr7`UYx]-y3,_P#$,m"><field name="NUM">1</field></shadow></value><value name="y"><shadow type="math_number" id="Z^[4PY$W[+1l4qET3Xkt"><field name="NUM">0</field></shadow></value><value name="z"><shadow type="math_number" id="IIV=_nXBjggyA])+1ZyS"><field name="NUM">0</field></shadow></value></shadow></value></block></next></block></next></block></statement></block></xml>
